@@ -4,10 +4,10 @@
 
 layout: default
 ---
-Lappajärven kunnan liikuntaneuvonnan demosivut
+Jatkuvan oppimisen julkaisualustan demo-sivut
 
-## Yleistä
+## Julkaisut
 ---
-## Liikuntasuositukset
+## Tapahtumat
 ---
-## Ikäihmisten liikunta
+## Uutiset
