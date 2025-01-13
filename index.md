@@ -20,7 +20,8 @@ Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloi
  
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
-| Aloittelijan koko kehon ohjelma | [aloittejan ohjelma](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
+| Aloittelijan koko kehon ohjelma | [aloittelijan ohjelma](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
+
 ## Tuolijumppa (Aijjoos)
 Aijjoos tekee tammikuun loppuun mennessä.
 
