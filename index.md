@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Testisivustolla testataan digitaalisen liikuntaneuvonnan sisältöä.
+Liikuntaneuvonta kuuluu kaikille: lapsille, nuorille, opikelijoille, työikäisille ja ikääntyneille. (Lähde: liikkuva aikuinen -ohjelma; Liikuntaneuvonnan valtakunnalliset suositukset)
 
 ## Yleistä
 Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian vähän liikkuviin kuntalaisiin.
