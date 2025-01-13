@@ -10,11 +10,11 @@ Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja mada
 ## Yleistä liikuntaneuvonnasta
 Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian vähän liikkuviin kuntalaisiin.
 
-Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. Lisätietoja: https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/
+Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. [Lisätietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
 ## Miten aloittaa kuntosaliharrastus keski-ikäisenä tai vanhempana?
 
-Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman kannattaa tutustua Tarveyskirjastosta löytyvään ohjeeseen: [kuntosaliharjoittelun aloittaminen] (https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille)
+Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman kannattaa tutustua Tarveyskirjastosta löytyvään ohjeeseen: [kuntosaliharjoittelun aloittaminen](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille)
 
 ## Kuntosaliohjelmat
  
