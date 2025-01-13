@@ -17,7 +17,9 @@ Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos
 Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman kannattaa tutustua Tarveyskirjastosta löytyvään ohjeeseen: https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille
 
 ## Kuntosaliohjelmat
-Aloittelijan kuntosaliohjelmia 
+ 
+| Julkaisu | Linkki julkaisuun |
+|----|----|
 | Aloittelijan koko kehon ohjelma | [aloittejan ohjelma](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
 ## Tuolijumppa (Aijjoos)
 Aijjoos tekee tammikuun loppuun mennessä.
