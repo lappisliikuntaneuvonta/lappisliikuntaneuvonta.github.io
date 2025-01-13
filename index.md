@@ -5,7 +5,7 @@ layout: default
 Liikuntaneuvonta kuuluu kaikille: lapsille, nuorille, opikelijoille, työikäisille ja ikääntyneille. (Lähde: liikkuva aikuinen -ohjelma; Liikuntaneuvonnan valtakunnalliset suositukset)
 
 ## Sivuston tarkoitus
-Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja madaltaa kynnystä aloittaa liikunta.
+Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja madaltaa kynnystä aloittaa liikuntaharrastus.
 
 ## Yleistä
 Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian vähän liikkuviin kuntalaisiin.
