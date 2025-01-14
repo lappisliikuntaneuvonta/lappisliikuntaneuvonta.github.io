@@ -37,4 +37,8 @@ Aijjoos tekee videon tammikuun loppuun mennessä.
 
 [Ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/)
 
+## Uni ja palautuminen
+
+[Työterveyslaitosen sivulta tietoa unesta ja palautumisesta](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/elintavat/uni-ja-palautuminen)
+
 
