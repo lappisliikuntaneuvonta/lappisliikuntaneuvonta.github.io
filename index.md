@@ -12,7 +12,6 @@ Liikuntaneuvonta on kohdistettu ensisijaisesti terveytens채 kannalta liian v채h�
 
 Lappaj채rven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteytt채 kunnan elintapaohjaukseen. [Lis채tietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
-## 
 
 ## Miten aloittaa kuntosaliharrastus keski-ik채isen채 tai vanhempana?
 
