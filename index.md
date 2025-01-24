@@ -28,6 +28,8 @@ Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloi
 
 ## Tuolijumppa (Aijjoos)
 
+| Ohjelman nimi | Linkki ohjelmaan |
+|----|----|
 | Jalkajumppa tuolilla | [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
 
 ## Liikuntasuositukset
