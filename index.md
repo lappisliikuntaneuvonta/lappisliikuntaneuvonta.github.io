@@ -2,10 +2,8 @@
 layout: default
 ---
 
-Liikuntaneuvonta kuuluu kaikille: lapsille, nuorille, opikelijoille, työikäisille ja ikääntyneille. (Lähde: liikkuva aikuinen -ohjelma; Liikuntaneuvonnan valtakunnalliset suositukset)
-
 ## Sivuston tarkoitus
-Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja madaltaa kynnystä aloittaa liikuntaharrastus.
+Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja madaltaa kynnystä aloittaa omatoiminen liikuntaharrastus.
 
 ## Yleistä liikuntaneuvonnasta
 Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian vähän liikkuviin kuntalaisiin.
@@ -13,7 +11,8 @@ Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian väh�
 Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. [Lisätietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
 
-## Miten aloittaa kuntosaliharrastus keski-ikäisenä tai vanhempana?
+## Miten aloittaa kuntosaliharrastus?
+Alla oleva ohjeistus on suunnattu keski-ikäisille ja venhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
 
 Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman kannattaa tutustua Terveyskirjastosta löytyvään ohjeeseen: [kuntosaliharjoittelun aloittaminen](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille)
 
