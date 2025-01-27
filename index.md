@@ -12,9 +12,13 @@ Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos
 
 
 ## Miten aloittaa kuntosaliharrastus?
-Alla oleva ohjeistus on suunnattu keski-ikäisille ja venhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
+Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä.
 
-Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä. Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman kannattaa tutustua Terveyskirjastosta löytyvään ohjeeseen: [kuntosaliharjoittelun aloittaminen](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille)
+Lihasvoimaharjoittelua aloittavan kannattaa tutustua Terveyskirjaston artikkeliin [Lihasvoimaharjoittelu ja ruokavalio](https://www.terveyskirjasto.fi/dlk01080/lihasvoimaharjoittelu-ja-ruokavalio).
+
+Alla oleva ohjeistus on suunnattu keski-ikäisille ja vanhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
+
+Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
 
 ## Kuntosaliohjelmat
  
