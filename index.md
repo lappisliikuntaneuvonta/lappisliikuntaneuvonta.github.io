@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- 
+Liikuntaneuvonnan testisivu
 ## Sivuston tarkoitus
 Tämän sivuston tarkoitus on tukea Lappajärven kunnan elintapaohjausta ja madaltaa kynnystä aloittaa omatoiminen liikuntaharrastus.
 
