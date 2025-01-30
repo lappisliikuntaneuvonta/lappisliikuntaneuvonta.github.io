@@ -33,7 +33,7 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Jalkajumppa tuolilla | [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
-
+| Jumppa ylävartalolle tuolilla istuen | [Ylävartalojumppa](https://www.sportyplanner.fi/programs/599035/view/4s0nj2C82eCakQRUfT1Na7g403HKmOfZ)|
 ## Liikuntasuositukset
 
 [Liikkumisen suositukset](https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/) 
