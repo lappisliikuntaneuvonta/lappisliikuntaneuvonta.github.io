@@ -51,6 +51,7 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 ## Ravintosuositukset
 
 [Ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/)
+
 [Fineli (THL:n ylläpitämä elintarvikkeiden koostumispankki)](https://fineli.fi/fineli/fi/index)
 
 ## Uni ja palautuminen
