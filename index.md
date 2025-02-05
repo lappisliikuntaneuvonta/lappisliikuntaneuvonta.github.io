@@ -20,20 +20,27 @@ Alla oleva ohjeistus on suunnattu keski-ik채isille ja vanhemmille, mutta on hyv�
 Kuntosaliharrastusta aloittavan keski-ik채isen tai sit채 vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
 
 ## Kuntosaliohjelmat
- 
+
+# Aloittelijan ohjelmat
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Aloittelijan koko kehon ohjelma | [aloittelijan ohjelma](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
 | Kotijumppa | [Lihaskuntoa kotiharjoitteluna](https://www.sportyplanner.fi/#!/programs/560353/view/lRLHtu2pXpWtrEbfVWP00hIZWsGEUJ9Q) |
+| Helppo kahvakuulaharjoitus | [kahvakuula ohjelma](https://www.sportyplanner.fi/programs/600813/view/QGvW2jJghzA9ppSJsl5IynLQ0K37khH7)|
+
+# Vaativammat ohjelmat
+| Ohjelman nimi | Linkki ohjelmaan |
+|----|----|
 | Tasapainon harjoittelu | [Tasapainoilua yhdell채 jalalla](https://www.sportyplanner.fi/#!/programs/587967/view/oBDDs9lyzfUNR6N6qD2Cellp4ZX7tSv8) |
 | Kahvakuulaharjoitus | [Koko kehon kahvakuulaharjoitus](https://www.sportyplanner.fi/#!/programs/560373/view/xIb8uj76d4dRdNNTk9gFqJFjKIFt8LsJ)|
 
-## Tuolijumppa (Aijjoos)
+## Tuolijumppa (Toteutus: Aijjoos)
 
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Jalkajumppa tuolilla | [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
 | Jumppa yl채vartalolle tuolilla istuen | [Yl채vartalojumppa](https://www.sportyplanner.fi/programs/599035/view/4s0nj2C82eCakQRUfT1Na7g403HKmOfZ)|
+| Tuolijumppa koko vartalolle | [Tuolijumppa koko keholle](https://www.sportyplanner.fi/programs/600778/view/zWQXhuhc3jbKZrikD0txOaa9SVfsEsBN)|
 
 ## Liikuntasuositukset
 
