@@ -48,7 +48,7 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 
 [Liikkumisen suositukset](https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/) 
 
-## Ravintosuositukset
+## Ravitsemus
 
 [Ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/)
 
