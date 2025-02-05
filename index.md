@@ -21,14 +21,16 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 
 ## Kuntosaliohjelmat
 
-# Aloittelijan ohjelmat
+### Aloittelijan ohjelmat
+
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Aloittelijan koko kehon ohjelma | [aloittelijan ohjelma](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
 | Kotijumppa | [Lihaskuntoa kotiharjoitteluna](https://www.sportyplanner.fi/#!/programs/560353/view/lRLHtu2pXpWtrEbfVWP00hIZWsGEUJ9Q) |
 | Helppo kahvakuulaharjoitus | [kahvakuula ohjelma](https://www.sportyplanner.fi/programs/600813/view/QGvW2jJghzA9ppSJsl5IynLQ0K37khH7)|
 
-# Vaativammat ohjelmat
+### Vaativammat ohjelmat
+
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Tasapainon harjoittelu | [Tasapainoilua yhdellä jalalla](https://www.sportyplanner.fi/#!/programs/587967/view/oBDDs9lyzfUNR6N6qD2Cellp4ZX7tSv8) |
