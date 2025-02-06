@@ -28,6 +28,7 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 | Aloittelijan kuntosaliohjelma | [Aloittelijan ohjelma + alkulämmittely ja venyttely](https://www.sportyplanner.fi/#!/programs/588091/view/TnhbKiVZvlPaID7aEPlHQmFURuEJMJLz)|
 | Aloittelijan kotijumppa | [Lihaskuntoa kotiharjoitteluna](https://www.sportyplanner.fi/#!/programs/560353/view/lRLHtu2pXpWtrEbfVWP00hIZWsGEUJ9Q) |
 | Helppo kahvakuulaharjoitus | [Neljän liikkeen kahvakuulaohjelma](https://www.sportyplanner.fi/programs/600813/view/QGvW2jJghzA9ppSJsl5IynLQ0K37khH7)|
+| Helppo taukojumppa | [Taukojumppaa ylävartalolle](https://www.sportyplanner.fi/programs/600813/view/QGvW2jJghzA9ppSJsl5IynLQ0K37khH7)|
 
 ### Vaativammat ohjelmat
 
