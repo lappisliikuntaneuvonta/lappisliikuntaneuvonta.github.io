@@ -10,7 +10,13 @@ Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian väh�
 
 Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. [Lisätietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
+# Lisää liikkumista
+*** Tämä kesken, mutta tähän muun muassa kestävyysliikuntaan liittyvää materiaalia  ***
+
+# Lihaskuntoa ja liikehallintaa
+
 ## Miten aloittaa kuntosaliharrastus?
+
 Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä.
 
 Lihasvoimaharjoittelua aloittavan kannattaa tutustua Terveyskirjaston artikkeliin [Lihasvoimaharjoittelu ja ruokavalio](https://www.terveyskirjasto.fi/dlk01080/lihasvoimaharjoittelu-ja-ruokavalio).
@@ -18,8 +24,6 @@ Lihasvoimaharjoittelua aloittavan kannattaa tutustua Terveyskirjaston artikkelii
 Alla oleva ohjeistus on suunnattu keski-ikäisille ja vanhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
 
 Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
-
-## Kuntosaliohjelmat
 
 ### Aloittelijan ohjelmat
 
