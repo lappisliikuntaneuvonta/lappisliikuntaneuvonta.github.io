@@ -11,7 +11,7 @@ Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian väh�
 Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. [Lisätietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
 # Lisää liikkumista
-*** Tämä kesken, mutta tähän muun muassa kestävyysliikuntaan liittyvää materiaalia  ***
+*** Tämä kesken, mutta tähän muun muassa arkiaktiiviisuuteen ja kestävyysliikuntaan liittyvää materiaalia  ***
 
 # Lihaskuntoa ja liikehallintaa
 
