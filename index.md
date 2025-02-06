@@ -42,7 +42,7 @@ Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [O
 | Kahvakuulaharjoitus | [Koko kehon kahvakuulaharjoitus](https://www.sportyplanner.fi/#!/programs/560373/view/xIb8uj76d4dRdNNTk9gFqJFjKIFt8LsJ)|
 | Vaativa taukojumppa | [Kolme haastavaa taukojumppaa](https://www.sportyplanner.fi/programs/601317/view/8YKH0XQlpqWXjdHVYE8Ta1VE3jYffgU4)|
 
-## Tuolijumppa (Toteutus: Aijjoos)
+## Tuolijumppa (toteutus: Aijjoos)
 
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
