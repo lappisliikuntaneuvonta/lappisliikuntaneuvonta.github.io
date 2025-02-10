@@ -11,8 +11,9 @@ Liikuntaneuvonta on kohdistettu ensisijaisesti terveytensä kannalta liian väh�
 Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos koet haasteita oman terveyden kanssa tai olet huolissasi omasta hyvinvoinnista ja jaksamisesta, niin ota yhteyttä kunnan elintapaohjaukseen. [Lisätietoja elintapaohjauksesta](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/elintapaohjaus/)
 
 # Lisää liikkumista
-*** Tämä kesken, mutta tähän muun muassa arkiaktiiviisuuteen ja kestävyysliikuntaan liittyvää materiaalia  ***
+
 Arkiaktiivisuus on tärkeämpää kuin liikuntasuoritukset terveysvaikutusten saamiseksi. Voit lisätä arkiaktiivisuutta päivääsi helposti pienillä valinnoilla: kävele muutamia askelia enemmän, käytä portaita ja tauota paikallaanoloa. Normaalit siivous- ja puutarhatyöt ovat hyvää arkiliikuntaa.
+
 # Lihaskuntoa ja liikehallintaa
 
 ## Miten aloittaa kuntosaliharrastus?
