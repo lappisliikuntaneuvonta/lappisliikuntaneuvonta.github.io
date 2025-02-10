@@ -12,7 +12,7 @@ Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos
 
 # Lisää liikkumista
 
-Arkiaktiivisuus on tärkeämpää kuin liikuntasuoritukset terveysvaikutusten saamiseksi. Voit lisätä arkiaktiivisuutta päivääsi helposti pienillä valinnoilla: kävele muutamia askelia enemmän, käytä portaita ja tauota paikallaanoloa. Normaalit siivous- ja puutarhatyöt ovat hyvää arkiliikuntaa.
+Arkiaktiivisuus on tärkeämpää kuin liikuntasuoritukset terveysvaikutusten saamiseksi. Voit lisätä arkiaktiivisuutta päivääsi helposti pienillä valinnoilla: kävele muutamia askelia enemmän, käytä portaita ja tauota paikallaanoloa. Normaalit siivous- ja puutarhatyöt ovat hyvää arkiliikuntaa. Kun lisäät liikuntaa arkeesi, niin lisää vähän kerralaan ja ensiksi määrää. Tehojen lisäämisen voi aloittaa kun liikunta on tullut sännölliseksi tavaksi arjessa.
 
 Arkiaktiivisuuden lisäksi on hyvä harrastaa säännöllisesti liikuntaa. Liikuntamotivaation säilyttämiseksi kannattaa liikkua itselle mieluisalla tavalla. Lappajärveltä löytyy paljon liikuntapaikkoja ja mahdollisuuksia harrastaa eri liikuntalajeja. [Lappajärven liikuntapaikat](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/liikuntapaikat-kartalla/)
 
