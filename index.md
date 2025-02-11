@@ -20,15 +20,15 @@ Kun lisäät liikuntaa arkeesi, niin lisää vähän kerrallaan ja ensiksi mää
 
 # Lihaskuntoa ja liikehallintaa
 
-## Miten aloittaa kuntosaliharrastus?
+## Miten aloittaa kuntosaliharjoittelu?
 
-Kuntosaliharrastus on hyvä lihaskunnon ylläpitäjä.
+Kuntosaliharjoittelulla voit parantaa ja ylläpitää lihaskuntoa.
 
-Lihasvoimaharjoittelua aloittavan kannattaa tutustua Terveyskirjaston artikkeliin [Lihasvoimaharjoittelu ja ruokavalio](https://www.terveyskirjasto.fi/dlk01080/lihasvoimaharjoittelu-ja-ruokavalio).
+Kuntosaliharjoittelua aloittamista harkitsevan kannattaa tutustua Terveyskirjaston artikkeliin [Lihasvoimaharjoittelu ja ruokavalio](https://www.terveyskirjasto.fi/dlk01080/lihasvoimaharjoittelu-ja-ruokavalio).
 
 Alla oleva ohjeistus on suunnattu keski-ikäisille ja vanhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
 
-Kuntosaliharrastusta aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
+Kuntosaliharjoittelun aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
 
 ### Aloittelijan ohjelmat
 
