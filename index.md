@@ -12,7 +12,7 @@ Lappajärven kunnassa liikuntaneuvonta on toteutettu osana elintapaohjausta. Jos
 
 # Lisää liikkumista
 
-Arkiaktiivisuus on tärkeämpää kuin liikuntasuoritukset terveysvaikutusten saamiseksi. Voit lisätä arkiaktiivisuutta päivääsi helposti pienillä valinnoilla: kävele enemmän, käytä portaita ja tauota paikallaanoloa. Normaalit siivous- ja puutarhatyöt ovat hyvää arkiliikuntaa.
+Arkiaktiivisuus on tärkeämpää kuin liikuntasuoritukset terveysvaikutusten saamiseksi. Voit lisätä arkiaktiivisuutta päivääsi helposti pienillä valinnoilla: kävele enemmän, käytä portaita ja tauota paikallaanoloa. Normaalit siivous- ja puutarhatyöt ovat hyvää terveysliikuntaa.
 
 Arkiaktiivisuuden lisäksi on hyvä harrastaa säännöllisesti liikuntaa. Liikuntamotivaation säilyttämiseksi kannattaa liikkua itselle mieluisalla tavalla. Lappajärveltä löytyy paljon liikuntapaikkoja ja mahdollisuuksia harrastaa eri liikuntalajeja. [Lappajärven liikuntapaikat](https://lappajarvi.fi/kulttuuri-ja-vapaa-aika/liikuntapaikat-kartalla/)
 
@@ -22,11 +22,11 @@ Kun lisäät liikuntaa arkeesi, niin lisää vähän kerrallaan ja ensiksi mää
 
 ## Miten aloittaa kuntosaliharjoittelu?
 
-Kuntosaliharjoittelulla voit parantaa ja ylläpitää lihaskuntoa.
+Kuntosaliharjoittelulla voit parantaa ja ylläpitää lihaskuntoasi.
 
 Kuntosaliharjoittelua aloittamista harkitsevan kannattaa tutustua Terveyskirjaston artikkeliin [Lihasvoimaharjoittelu ja ruokavalio](https://www.terveyskirjasto.fi/dlk01080/lihasvoimaharjoittelu-ja-ruokavalio).
 
-Alla oleva ohjeistus on suunnattu keski-ikäisille ja vanhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharrrastusta aloitteleville.
+Alla oleva ohjeistus on suunnattu keski-ikäisille ja vanhemmille, mutta on hyvä aloitusohje kaikenikäisille kuntosaliharjoittelua aloitteleville.
 
 Kuntosaliharjoittelun aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [Ohjeistus lihasvoimaharjoitteluun](https://www.terveyskirjasto.fi/dlk01079/lihasvoimaharjoittelu-ohje-keski-ikaisille-ja-sita-vanhemmille).
 
