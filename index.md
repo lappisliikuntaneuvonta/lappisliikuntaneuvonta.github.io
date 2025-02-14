@@ -47,13 +47,15 @@ Kuntosaliharjoittelun aloittavan keski-ikäisen tai sitä vanhemman ohjeistus: [
 | Kahvakuulaharjoitus | [Koko kehon kahvakuulaharjoitus](https://www.sportyplanner.fi/#!/programs/560373/view/xIb8uj76d4dRdNNTk9gFqJFjKIFt8LsJ)|
 | Vaativa taukojumppa | [Kolme haastavaa taukojumppaa](https://www.sportyplanner.fi/programs/601317/view/8YKH0XQlpqWXjdHVYE8Ta1VE3jYffgU4)|
 
-## Tuolijumppa (toteutus: Aijjoos)
+## Tuoli- ja keppijumppaa (toteutus: Aijjoos)
+Alla olevat jumpat on suunniteltu ikäihmisille. 
 
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
 | Jalkajumppa tuolilla | [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
 | Jumppa ylävartalolle tuolilla istuen | [Ylävartalojumppa](https://www.sportyplanner.fi/programs/599035/view/4s0nj2C82eCakQRUfT1Na7g403HKmOfZ)|
-| Tuolijumppa koko vartalolle | [Tuolijumppa koko keholle](https://www.sportyplanner.fi/programs/600778/view/zWQXhuhc3jbKZrikD0txOaa9SVfsEsBN)|
+| Tuolijumppa koko vartalolle | [Tuolijumppa](https://www.sportyplanner.fi/programs/600778/view/zWQXhuhc3jbKZrikD0txOaa9SVfsEsBN)|
+| Vahvistava ja venyttävä keppijumppa | [Keppijumppa](https://www.sportyplanner.fi/programs/602948/view/QLuyvlU9R9wYfQcoMxmh6Ajsm11dUMso)|
 
 ## Liikuntasuositukset
 
