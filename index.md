@@ -52,7 +52,7 @@ Alla olevat jumpat on suunniteltu ikäihmisille.
 
 | Ohjelman nimi | Linkki ohjelmaan |
 |----|----|
-| Jalkajumppa tuolilla | [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
+| Jalkajumppa tuolilla ja liikkuvuusharjoitteita| [Jalkojen voima ja tasapaino](https://www.sportyplanner.fi/programs/597473/view/yNqb887Bmh9eYYFJTwLZClz16Qtx0H9F)|
 | Jumppa ylävartalolle tuolilla istuen | [Ylävartalojumppa](https://www.sportyplanner.fi/programs/599035/view/4s0nj2C82eCakQRUfT1Na7g403HKmOfZ)|
 | Tuolijumppa koko vartalolle | [Tuolijumppa](https://www.sportyplanner.fi/programs/600778/view/zWQXhuhc3jbKZrikD0txOaa9SVfsEsBN)|
 | Vahvistava ja venyttävä keppijumppa | [Keppijumppa](https://www.sportyplanner.fi/programs/602948/view/QLuyvlU9R9wYfQcoMxmh6Ajsm11dUMso)|
@@ -75,3 +75,5 @@ Alla olevat jumpat on suunniteltu ikäihmisille.
 ## Liikunta ja motivaatio
 
 Vinkki! Tee pieniä asioita päivittäin mitkä auttavat liikunnallisen elämäntavan omaksumista ja hyvinvointia arjessa.
+
+UKK-instituutti: [Ikäihmisten motivoituminen liikkumaan](https://ukkinstituutti.fi/wp-content/uploads/2020/10/Ikaantyneen_motivoituminen_liikkumaan_Erja_Toropainen.pdf) 
