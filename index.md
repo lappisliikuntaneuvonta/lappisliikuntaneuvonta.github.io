@@ -76,4 +76,4 @@ Alla olevat jumpat on suunniteltu ikäihmisille.
 
 Vinkki! Tee pieniä asioita päivittäin mitkä auttavat liikunnallisen elämäntavan omaksumista ja hyvinvointia arjessa.
 
-UKK-instituutti: [Ikäihmisten motivoituminen liikkumaan](https://ukkinstituutti.fi/wp-content/uploads/2020/10/Ikaantyneen_motivoituminen_liikkumaan_Erja_Toropainen.pdf) 
+Terveyskylän tietoa motivoitumisesta liikkumaan: [Mistä motivaatiota liikkumiseen?](https://www.terveyskyla.fi/painonhallinta/itsehoito/liikunta/liikuntamotivaatio-ja-liikunnan-aloittaminen) 
